@@ -13,3 +13,18 @@ C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorldExampl
 C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.dll
 C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.xml
 C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.pdb
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\ExcelAddInHelloWorldExample.dll
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\ExcelAddInHelloWorldExample.pdb
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\ExcelAddInHelloWorldExample.xml
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\ExcelAddInHelloWorldExample.dll.manifest
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\ExcelAddInHelloWorldExample.vsto
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.vbprojAssemblyReference.cache
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.Ribbon1.resources
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.Resources.resources
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.vbproj.GenerateResource.cache
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.vbproj.CoreCompileInputs.cache
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.vbproj.CopyComplete
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.dll
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.xml
+C:\Users\Nelson\Desktop\ALIRO\ExcelAddInHelloWorldExample\ExcelAddInHelloWorldExample\obj\Debug\ExcelAddInHelloWorldExample.pdb
