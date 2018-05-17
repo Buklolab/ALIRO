@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:ce44715c-8c4e-446b-879c-ea9ebe0f09c8-->
+<OfficeApp 
+          xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" 
+          xsi:type="ContentApp">
+
+  <!-- Iniciar la configuración básica: metadatos de complemento que se usan para todas las versiones de Office a menos que se proporcione un reemplazo. -->
+
+  <!-- IMPORTANTE: El identificador debe ser único para el complemento. Si reutiliza este manifiesto, asegúrese de que cambia este identificador a un nuevo GUID. -->
+  <Id>81ce723f-d70a-41b7-b701-cc849beccb6f</Id>
+
+  <!--Versión. Las actualizaciones de la tienda solo se desencadenan si hay un cambio de versión. -->
+  <Version>1.0.0.0</Version>
+  <ProviderName>[Nombre del proveedor]</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <!-- Nombre para mostrar del complemento. Se usa en la tienda y en varios lugares de la interfaz de usuario de Office, como el cuadro de diálogo de complementos. -->
+  <DisplayName DefaultValue="ExcelWebAddInTest" />
+  <Description DefaultValue="ExcelWebAddInTest"/>
+  <!-- Icono para el complemento. Se usa en las pantallas de la instalación y en el cuadro de diálogo de complementos. -->
+  <IconUrl DefaultValue="~remoteAppUrl/Images/Button32x32.png" />
+
+  <SupportUrl DefaultValue="http://www.contoso.com" />
+  <!-- Dominios permitidos para la navegación. Por ejemplo, si utiliza ShowTaskpane y tiene un vínculo href, solo se permitirá la navegación si el dominio está en esta lista. -->
+  <AppDomains>
+    <AppDomain>AppDomain1</AppDomain>
+    <AppDomain>AppDomain2</AppDomain>
+    <AppDomain>AppDomain3</AppDomain>
+  </AppDomains>
+  <!--Finalizar la configuración básica. -->
+  
+  <Hosts>
+    <Host Name="Workbook" />
+  </Hosts>
+  <Requirements>
+    <Sets>
+      <Set Name="TableBindings" MinVersion="1.1" />
+    </Sets>
+  </Requirements>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/Home/Home.html" />
+    <RequestedWidth>400</RequestedWidth>
+    <RequestedHeight>400</RequestedHeight>
+  </DefaultSettings>
+
+  <Permissions>ReadWriteDocument</Permissions>
+
+</OfficeApp>

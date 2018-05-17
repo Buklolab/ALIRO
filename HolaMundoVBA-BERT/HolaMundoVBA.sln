@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HolaMundoVBA", "HolaMundoVBA\HolaMundoVBA.vbproj", "{4D447290-B659-4A91-908F-620E5FDA2264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D447290-B659-4A91-908F-620E5FDA2264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D447290-B659-4A91-908F-620E5FDA2264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D447290-B659-4A91-908F-620E5FDA2264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D447290-B659-4A91-908F-620E5FDA2264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB21D31-97A5-48AE-AD02-3239BC0628AF}
+	EndGlobalSection
+EndGlobal
