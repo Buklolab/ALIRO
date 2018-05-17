@@ -1,0 +1,15 @@
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\ExcelAddInBertExample.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\ExcelAddInBertExample.pdb
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\ExcelAddInBertExample.xml
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\ExcelAddInBertExample.dll.manifest
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\ExcelAddInBertExample.vsto
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.vbprojAssemblyReference.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.Ribbon1.resources
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.Resources.resources
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.vbproj.GenerateResource.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.vbproj.CoreCompileInputs.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.vbproj.CopyComplete
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.xml
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInBertExample\ExcelAddInBertExample\obj\Debug\ExcelAddInBertExample.pdb
