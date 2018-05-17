@@ -8,4 +8,10 @@
 
     End Sub
 
+    Function sum()
+        Dim result As Double
+        result = Application.Run("BERT.Call", "sum", 1, 2, 3)
+        Return result
+    End Function
+
 End Class

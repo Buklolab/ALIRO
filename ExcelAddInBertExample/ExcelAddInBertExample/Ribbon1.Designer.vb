@@ -44,6 +44,7 @@
         Me.HelloWorld = Me.Factory.CreateRibbonTab
         Me.Group1 = Me.Factory.CreateRibbonGroup
         Me.bHelloWorld = Me.Factory.CreateRibbonButton
+        Me.bSum = Me.Factory.CreateRibbonButton
         Me.HelloWorld.SuspendLayout()
         Me.Group1.SuspendLayout()
         Me.SuspendLayout()
@@ -57,6 +58,7 @@
         'Group1
         '
         Me.Group1.Items.Add(Me.bHelloWorld)
+        Me.Group1.Items.Add(Me.bSum)
         Me.Group1.Label = "Hello World"
         Me.Group1.Name = "Group1"
         '
@@ -64,6 +66,11 @@
         '
         Me.bHelloWorld.Label = "Click Me"
         Me.bHelloWorld.Name = "bHelloWorld"
+        '
+        'bSum
+        '
+        Me.bSum.Label = "Sum"
+        Me.bSum.Name = "bSum"
         '
         'Ribbon1
         '
@@ -81,6 +88,7 @@
     Friend WithEvents HelloWorld As Microsoft.Office.Tools.Ribbon.RibbonTab
     Friend WithEvents Group1 As Microsoft.Office.Tools.Ribbon.RibbonGroup
     Friend WithEvents bHelloWorld As Microsoft.Office.Tools.Ribbon.RibbonButton
+    Friend WithEvents bSum As Microsoft.Office.Tools.Ribbon.RibbonButton
 End Class
 
 Partial Class ThisRibbonCollection
