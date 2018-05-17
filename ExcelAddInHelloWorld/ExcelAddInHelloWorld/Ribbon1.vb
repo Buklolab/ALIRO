@@ -1,0 +1,23 @@
+﻿Imports Microsoft.Office.Tools.Ribbon
+Imports Microsoft.Office.Interop.Excel
+
+Public Class Ribbon1
+
+    Private Sub Ribbon1_Load(ByVal sender As System.Object, ByVal e As RibbonUIEventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub bHelloWorld_Click(sender As Object, e As RibbonControlEventArgs) Handles bHelloWorld.Click
+
+        Dim ActiveWorksheet As Microsoft.Office.Interop.Excel.Worksheet =
+            Globals.ThisAddIn.Application.ActiveWorkbook.Worksheets(1)
+
+        Dim Worksheet As Microsoft.Office.Tools.Excel.Worksheet =
+            Globals.Factory.GetVstoObject(ActiveWorksheet)
+
+        Dim cellB2 As Excel.Range = Worksheet.Range("B2")
+
+        cellB2.Value = "Hello World"
+
+    End Sub
+End Class

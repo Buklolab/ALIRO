@@ -1,0 +1,15 @@
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\ExcelAddInHelloWorld.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\ExcelAddInHelloWorld.pdb
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\ExcelAddInHelloWorld.xml
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\ExcelAddInHelloWorld.dll.manifest
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\ExcelAddInHelloWorld.vsto
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.vbprojAssemblyReference.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.Ribbon1.resources
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.Resources.resources
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.vbproj.GenerateResource.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.vbproj.CopyComplete
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.dll
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.xml
+C:\Users\Nelson\Documents\Visual Studio 2017\Projects\ExcelAddInHelloWorld\ExcelAddInHelloWorld\obj\Debug\ExcelAddInHelloWorld.pdb
