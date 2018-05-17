@@ -1,0 +1,24 @@
+﻿/* Estilo específico de página */
+
+.notice {
+    padding: 10px 10px 25px 10px;
+    border: 2px solid black;
+}
+
+/* Formato para la visualización de ejemplo */
+
+.visualization {
+    padding-bottom: 7px;
+    padding-right: 10px;
+}
+
+.visualization td {
+    padding-bottom: 5px;
+}
+
+.visualization .bar {
+    background: darkgreen;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}

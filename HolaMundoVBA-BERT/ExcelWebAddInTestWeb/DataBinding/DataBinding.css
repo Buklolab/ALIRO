@@ -1,0 +1,20 @@
+﻿/* Estilo específico de página */
+
+#content-main {
+    bottom: 50px; /* Mismo valor que el alto de #content-footer */
+}
+
+#content-main button {
+    margin-top: 10px;
+    width: 200px;
+}
+
+#content-footer {
+    background-color: #cecece;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px; /* Alto fijo de pie de página */
+    overflow: hidden; /* Deshabilitar barras de desplazamiento para el pie de página */
+}
