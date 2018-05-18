@@ -1,0 +1,13 @@
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\TestBertAndExcel.dll
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\TestBertAndExcel.pdb
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\TestBertAndExcel.xml
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\TestBertAndExcel.dll.manifest
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\TestBertAndExcel.vsto
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.Menu.resources
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.Resources.resources
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.dll
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.xml
+C:\Users\Daniel\Downloads\TestBertAndExcel\TestBertAndExcel\obj\Debug\TestBertAndExcel.pdb
