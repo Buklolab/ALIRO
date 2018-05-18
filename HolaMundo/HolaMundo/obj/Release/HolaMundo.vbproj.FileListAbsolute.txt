@@ -1,0 +1,14 @@
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.dll
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.pdb
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.xml
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.dll.manifest
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.vsto
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.vbprojResolveAssemblyReference.cache
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.Ribbon1.resources
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.Resources.resources
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.vbproj.GenerateResource.Cache
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.vbproj.CoreCompileInputs.cache
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.dll
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.xml
+C:\Users\CAMir\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.pdb

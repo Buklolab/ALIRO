@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HolaMundo
+</name>
+</assembly>
+<members>
+<member name="T:HolaMundo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HolaMundo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HolaMundo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:HolaMundo.ThisRibbonCollection">
+
+</member>
+<member name="M:HolaMundo.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:HolaMundo.ThisAddIn">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.#ctor(Microsoft.Office.Tools.Excel.ApplicationFactory,System.IServiceProvider)">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.Initialize">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.FinishInitialization">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.InitializeDataBindings">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.InitializeCachedData">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.InitializeData">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.BindToData">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.StartCaching(System.String)">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.StopCaching(System.String)">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.IsCached(System.String)">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.BeginInitialization">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.EndInitialization">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.InitializeControls">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.InitializeComponents">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.NeedsFill(System.String)">
+
+</member>
+<member name="M:HolaMundo.ThisAddIn.OnShutdown">
+
+</member>
+<member name="T:HolaMundo.Globals">
+
+</member>
+<member name="M:HolaMundo.Globals.#ctor">
+
+</member>
+</members>
+</doc>
