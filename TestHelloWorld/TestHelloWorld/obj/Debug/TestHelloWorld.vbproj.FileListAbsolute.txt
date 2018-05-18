@@ -1,0 +1,14 @@
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\TestHelloWorld.dll
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\TestHelloWorld.pdb
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\TestHelloWorld.xml
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\TestHelloWorld.dll.manifest
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\TestHelloWorld.vsto
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.Menu.resources
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.Resources.resources
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.dll
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.xml
+C:\Users\Daniel\Downloads\TestHelloWorld\TestHelloWorld\obj\Debug\TestHelloWorld.pdb
